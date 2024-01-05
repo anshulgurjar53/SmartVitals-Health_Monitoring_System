@@ -38,6 +38,17 @@ SmartVitals is an  health monitoring system designed to regularly track and repo
  #include "Wire.h"
 ```
 
+# Sample Images
+
+![heart](https://github.com/anshulgurjar53/SmartVitals-Health_Monitoring_System/assets/90499262/d7d34fe7-062f-469c-818c-5c9b4afb96e2)
+
+
+# Future Scope
+
+In my ongoing efforts to enhance the SmartVitals project, I've taken a significant step towards empowering patients to monitor their health more comprehensively by integrating an ECG sensor. The addition of an ECG sensor enables individuals to observe their vital signs at home or under everyday circumstances. While interpreting ECG readings might be challenging for non-medical individuals initially, the incorporation of this feature holds tremendous potential for early detection and alerting patients to potential health issues promptly. Through the utilization of the AD8232 ECG sensor, I've obtained promising results, laying the groundwork for future developments. I welcome and appreciate any contributions towards furthering this project, especially in refining the integration of ECG monitoring and exploring additional functionalities to enhance the overall healthcare monitoring experience.
+
+
+
 # Contributing:
 We welcome contributions from the community! Whether you're a developer, designer, or healthcare professional, your expertise can help enhance SmartVitals.
 
